@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="showedText">Привет мир! Выполнение домашнего задания: "Выбор отступа".</string>
+    <string name="ok" translatable="false">Выбрать</string>/>
+
+    <string-array name="margins">
+        <item>Маленькие отступы</item>
+        <item>Средние отступы</item>
+        <item>Большие отступы</item>
+    </string-array>
+</resources>
